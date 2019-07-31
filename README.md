@@ -1,24 +1,7 @@
 # README
+This is a tech University app built with Rails 5 and MaterializeCSS as front-end. It's an app that allows students of the fictional Tech University to enroll for a course by signing up and adding courses to their portal.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Date: July 2019
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
+Developer: PJ Mantoss
 * ...
